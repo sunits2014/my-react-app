@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 19.99,
+    "stock": 120,
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "image": "mouse.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 49.99,
+    "stock": 75,
+    "description": "Noise-cancelling over-ear headphones with 20h battery life.",
+    "image": "headphones.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ceramic Coffee Mug",
+    "category": "Home & Kitchen",
+    "price": 8.5,
+    "stock": 200,
+    "description": "12oz ceramic mug, dishwasher safe.",
+    "image": "mug.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 22.99,
+    "stock": 60,
+    "description": "Non-slip yoga mat, 6mm thick.",
+    "image": "yogamat.jpg"
+  },
+  {
+    "id": 5,
+    "name": "LED Desk Lamp",
+    "category": "Home & Office",
+    "price": 34.95,
+    "stock": 40,
+    "description": "Adjustable LED lamp with USB charging port.",
+    "image": "desklamp.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Outdoors",
+    "price": 15.99,
+    "stock": 150,
+    "description": "Insulated bottle keeps drinks cold for 24 hours.",
+    "image": "waterbottle.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Gaming Keyboard",
+    "category": "Electronics",
+    "price": 59.99,
+    "stock": 30,
+    "description": "Mechanical keyboard with RGB lighting.",
+    "image": "keyboard.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 12.99,
+    "stock": 100,
+    "description": "100% cotton, available in multiple colors.",
+    "image": "tshirt.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Portable Charger",
+    "category": "Electronics",
+    "price": 25.49,
+    "stock": 85,
+    "description": "10,000mAh power bank with fast charging.",
+    "image": "charger.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Cookbook",
+    "category": "Books",
+    "price": 18.0,
+    "stock": 50,
+    "description": "Easy recipes for everyday meals.",
+    "image": "cookbook.jpg"
+  }
+]
