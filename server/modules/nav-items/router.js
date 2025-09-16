@@ -8,6 +8,8 @@
             res.status(200).json(navItemsData);
         });
 
+        navItemsRouter.post('/items', () => { })
+
         module.exports = navItemsRouter;
     }
 )()

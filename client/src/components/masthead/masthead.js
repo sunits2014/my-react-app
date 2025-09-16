@@ -21,8 +21,8 @@ function MastheadComponent() {
       <div className='container-fluid'>
         <nav className="navbar container p-0" data-bs-theme="dark">
           <div className='container-fluid'>
-            <a className="navbar-brand d-flex align-items-center p-0">
-              <img src={LogoImage} alt="Logo" width="32" className="d-inline-block align-text-top m-2" />
+            <a href='/' className="navbar-brand d-flex align-items-center">
+              <img src={LogoImage} alt="Logo" width="32" className={styles.logoWrapper + " d-inline-block align-text-top"} />
               Techweb
             </a>
             <ul className="navbar-nav flex-row">
